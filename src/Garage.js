@@ -1,6 +1,5 @@
 // a component of garage
 import Car from "./Car";
-
 function Garage() {
     return (
         <>
